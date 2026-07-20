@@ -3,7 +3,7 @@
 Hi! I'm **Daniel**, an **AI Solutions Specialist** at GT Edge AI 🚀  
 
 ### 🔭 Featured Projects
-- [**GT AI OS Community**](https://github.com/GT-Edge-AI-Internal/gt-ai-os-community) 
+- [**GT AI OS**](https://github.com/GT-Edge-AI/gt-ai-os) 
 
 Want to learn more about what we do? Check out our [Company Website](https://gtedge.ai).
 
